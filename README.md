@@ -13,7 +13,9 @@ In a former life, I was product manager for luxury brands where I developed a st
 Outside of programming I love cooking 🌱, sewing 🧵 and travelling 🌎. I am also a certified yoga teacher 🧘🏽‍♀️  and a bookworm! 🤓
 
 
-
+<br>
+<br>
+<br>
 
 
 
