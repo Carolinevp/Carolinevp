@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Caroline :woman_technologist:
 
-I'm a full-stack developer from France, currently living in London. 
-
 <img align="right" alt="illustration of web developer with laptop" src="./pale-woman-works-with-computer.png" width="400" height="400" />
+
+I'm a full-stack developer from France, currently living in London. 
 
 I work with JavaScript/TypeScript, and gathered most experience in React and React Native in the front-end, and Node, Express and MongoDb in the back-end.
 
