@@ -13,3 +13,12 @@ In a former life, I was product manager for luxury brands where I developed a st
 Outside of programming I love cooking 🌱, sewing 🧵 and travelling 🌎. I am also a certified yoga teacher 🧘🏽‍♀️  and a bookworm! 🤓
 
 
+# GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Carolinevp&hide=stars&show_icons=true&theme=kacho_ga&line_height=40"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolinevp&count_private=true&langs_count=4&theme=kacho_ga&line_height=40">
+
+</p>
+
+
