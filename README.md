@@ -8,4 +8,4 @@ In a former life, I was product manager for luxury brands where I developed a st
 
 Outside of programming I love cooking 🌱 and travelling 🌎. I am also a certified yoga teacher 🧘🏽‍♀️ and a bookworm! 🤓
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carolinvp)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carolinevp)](https://github.com/anuraghazra/github-readme-stats)
